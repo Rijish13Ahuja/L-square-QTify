@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.search{
+    height: 100%;
+    border-radius: 8px;
+    width: 35vw; 
+    padding: 9px 20px;
+}
+
+.searchButton{
+    border-radius: 8px;
+}
